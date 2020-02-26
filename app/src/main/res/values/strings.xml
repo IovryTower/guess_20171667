@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Figure guessing number game </string>
+    <string name="hello">HELLO WORLD</string>
+    <string name="Theme">Please enter a number that between 1 to 1000</string>
+    <string name="enter_num">0</string>
+    <string name="show_rf">I will show right of fault</string>
+    <string name="btn_confirm">Confirm</string>
+
+</resources>
